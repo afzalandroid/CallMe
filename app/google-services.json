@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "926160157155",
+    "project_id": "callme-c42c1",
+    "storage_bucket": "callme-c42c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926160157155:android:c1a6498773d9544acd48d6",
+        "android_client_info": {
+          "package_name": "com.call"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926160157155-fmrfteomgt5ci0r90m81841socakuidk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.call",
+            "certificate_hash": "d9d93a0dae581ac4cd80249443c1de3ad473b7fc"
+          }
+        },
+        {
+          "client_id": "926160157155-6sso38td7rn90ghc83atlqoiibc1224r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4NuKy8Jqi0U3rCazMCWPlZolYAyD_kJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926160157155-6sso38td7rn90ghc83atlqoiibc1224r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
